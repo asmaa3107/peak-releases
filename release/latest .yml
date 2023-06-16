@@ -1,0 +1,8 @@
+version: 1.0.4
+files:
+  - url: PeakApp-Setup-1.0.4.exe
+    sha512: fWXsZBOzZBoSMj+I6HfWBm6YmgZpmB78lOr47lIIH++QGB9GEfYRf0U+FN6TPUFVuq8RAAbB7KA9na4S4Sejmg==
+    size: 73555837
+path: PeakApp-Setup-1.0.4.exe
+sha512: fWXsZBOzZBoSMj+I6HfWBm6YmgZpmB78lOr47lIIH++QGB9GEfYRf0U+FN6TPUFVuq8RAAbB7KA9na4S4Sejmg==
+releaseDate: '2023-05-30T04:09:28.431Z'
